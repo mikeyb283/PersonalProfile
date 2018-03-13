@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Personal Profile</string>
+    <string name="txt_header">Mike</string>
+    <string name="txt_caption">Mike and Hannah</string>
+    <string name="button_view">View Profile</string>
+    <string name="txt_bio">Mike and Hannah have been married since 2014.
+    They are expecting their first baby in May, baby Chloe. </string>
+</resources>
